@@ -15,6 +15,7 @@
       "to": "#07C983"
     }
   },
+  "openapi": "https://article-service.rtbf.be/article/v1/doc",
   "topbarLinks": [
     {
       "name": "Support",
